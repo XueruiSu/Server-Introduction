@@ -42,3 +42,8 @@ ssh xuerui@211.71.74.225
 其中，"xuerui" 是您在 Linux 服务器上的用户名，"211.71.74.225" 是服务器的 IP 地址。确保您使用的是您的实际用户名和 IP 地址。
 ### 4. 输入密码并连接
 连接到 Linux 服务器之后，您需要输入密码以验证您的身份。验证成功后，您将在 VS Code 中看到一个新的窗口，其中包含 Linux 服务器的文件系统。现在，您可以在 VS Code 中使用终端和文件编辑器与服务器进行交互。
+
+## 三、辅助教程：
+校园网登录的问题解决办法（denoted by Chongchong Li）： https://github.com/XueruiSu/Login-out-Campus-Network.git
+SSH免密登录教程（denoted by Xuerui Su）： https://github.com/XueruiSu/SSH-login-without-password.git
+使用tmux工具把程序挂载至后台教程（denoted by Xuerui Su）： https://github.com/XueruiSu/Tmux-tutorial.git
