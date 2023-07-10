@@ -47,3 +47,11 @@ ssh xuerui@211.71.74.225
 #### 校园网登录的问题解决办法（denoted by Chongchong Li）： https://github.com/XueruiSu/Login-out-Campus-Network.git
 #### SSH免密登录教程（denoted by Xuerui Su）： https://github.com/XueruiSu/SSH-login-without-password.git
 #### 使用tmux工具把程序挂载至后台教程（denoted by Xuerui Su）： https://github.com/XueruiSu/Tmux-tutorial.git
+
+## 四、八卡服务器参数
+![f0f6e30a690d23a85bd49a039b137ca](https://github.com/XueruiSu/Server-Introduction/assets/77718956/9ee10db4-12e4-4eef-9558-9a0c995a55d5)
+![77544a1ff47ce3d0064122245fca330](https://github.com/XueruiSu/Server-Introduction/assets/77718956/0e1aa02b-e1cd-4d8b-879f-98696e0e979b)
+![30def63dcb95145e15e7ecef1d7c6b2](https://github.com/XueruiSu/Server-Introduction/assets/77718956/4fd5e786-8f0e-4273-b157-ea7544252179)
+![df38cb549b61874a35faefd0f6d526c](https://github.com/XueruiSu/Server-Introduction/assets/77718956/50f96a3b-4919-4369-b1b5-67907dbbaca8)
+
+
